@@ -52,8 +52,6 @@ Descentralització<br>
 Internacionalisme<br>
 Economia democràtica
 
-+++
-
 Note:
 
 - Següent: una petita mostra de propostes
