@@ -33,26 +33,26 @@ Note:
 
 ---
 
-@snap[east]
 Democràcia directa<br>
 Cultura lliure<br>
 Programari lliure<br>
 Sobirania tecnològica
-@snapend
 
-@snap[midpoint]
++++
+
 Republicanisme<br>
 Feminisme<br>
 Laïcisme<br>
 Escepticisme racional
-@snapend
 
-@snap[west]
++++
+
 Sostenibilitat<br>
 Descentralització<br>
 Internacionalisme<br>
 Economia democràtica
-@snapend
+
++++
 
 Note:
 
