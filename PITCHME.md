@@ -21,28 +21,43 @@ Note:
 ![Pirates de Catalunya](assets/img/pirates.png)
 @snapend
 
+Note:
+
+- Explicar breument història
+- 2006: Suècia
+- 2010: Catalunya
+- 7 regidors actualment a Catalunya
+- 1 eurodiputada
+- Islàndia, República Txeca, Alemania, etc.
+- Següent: ideari
+
 ---
 
 @snap[east]
-- Democràcia directa
-- Cultura lliure
-- Programari lliure
-- Sobirania tecnològica
+Democràcia directa<br>
+Cultura lliure<br>
+Programari lliure<br>
+Sobirania tecnològica
 @snapend
 
 @snap[midpoint]
-- Republicanisme
-- Feminisme
-- Laïcisme
-- Escepticisme racional
+Republicanisme<br>
+Feminisme<br>
+Laïcisme<br>
+Escepticisme racional
 @snapend
 
 @snap[west]
-- Sostenibilitat
-- Descentralització
-- Internacionalisme
-- Economia democràtica
+Sostenibilitat<br>
+Descentralització<br>
+Internacionalisme<br>
+Economia democràtica
 @snapend
+
+Note:
+
+- Següent: una petita mostra de propostes
+- Següent: seguretat de les dades
 
 ---
 
@@ -154,3 +169,13 @@ Note:
 - Cal ampliar el principi de subsidiarietat als impostos
 - Model nòrdic: recaptació dels impostos al municipi i transferència d'un %
 - Podriem plantejar continuar amb l'ampliació de la gestió d'altres serveis
+
+---
+
+## Gràcies! APM?
+
+Dario Castañé | i@dario.im | @im_dario
+
+![Pirates de Catalunya](assets/img/pirates.png)
+
+Codi font a https://github.com/imdario/eixamplemmunicipis2018
