@@ -1,53 +1,55 @@
-# Propostes pirates municipals
+# Eixamplem programa
 
-Aportacions des de l'ideari pirata per a candidatures municipals
+Aportacions des de l'ideari pirata per a candidatures municipalistes
 
 ---
 
 ## Pirates?
 
+---
 
+![Pirates de Catalunya](assets/img/pirates.png)
 
 ---
 
-1. Reduir propaganda emprant mitjans electrònics
+### Auditories de seguretat
 
 ---
 
-2. Garantir cobertura i accés a Internet
+### Programari lliure i infraestructura pública
 
 ---
 
-3. Oficines d'Atenció al Ciutadà per a la transició digital
+### Garantir cobertura i accés a Internet
 
 ---
 
-4. Auditories de seguretat
+### Oficines d'Atenció al Ciutadà per a la transició digital
 
 ---
 
-5. Programari lliure i infraestructure pública
+### Reduir propaganda emprant mitjans electrònics
 
 ---
 
-6. Formats oberts
+### Implementar correctament l'accés i dades oberts
 
 ---
 
-7. Implementar correctament l'accés i dades oberts
+### Formats oberts
 
 ---
 
-8. Material escolar cooperatiu sota llicències lliures
+### Material escolar cooperatiu sota llicències lliures
 
 ---
 
-9. Espais de participació efectiu
+### Espais de participació efectius
 
 ---
 
-10. Bústia ètica
+### Bústia ètica
 
 ---
 
-BT1. Reformar el sistema impositiu.
+### Bonus track: Reformar el sistema impositiu.
