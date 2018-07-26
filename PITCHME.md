@@ -174,6 +174,6 @@ Note:
 
 Dario Castañé | i@dario.im | @im_dario
 
-![Pirates de Catalunya](assets/img/pirates.png)
+![Creative Commons Reconeixement 4.0 Internacional](assets/img/cc.png)
 
 Codi font a https://github.com/imdario/eixamplemmunicipis2018
