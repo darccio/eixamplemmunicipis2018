@@ -1,4 +1,4 @@
-# Eixamplem programa
+# @css[accent](Eixamplem programa)
 
 Aportacions des de l'ideari pirata per a candidatures municipalistes
 
