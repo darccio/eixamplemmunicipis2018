@@ -4,7 +4,7 @@ Aportacions des de l'ideari pirata per a candidatures municipalistes
 
 ---
 
-## Hola, sóc Dario Castañé
+## Hola, sóc @css[accent](Dario) Castañé
 
 I us vinc a parlar de pirates, però abans...
 
@@ -33,24 +33,24 @@ Note:
 
 ---
 
-Democràcia directa<br>
-Cultura lliure<br>
-Programari lliure<br>
-Sobirania tecnològica
+@css[accent](Democràcia) directa<br>
+@css[accent](Cultura) lliure<br>
+@css[accent](Programari) lliure<br>
+@css[accent](Sobirania) tecnològica
 
 +++
 
-Republicanisme<br>
-Feminisme<br>
-Laïcisme<br>
-Escepticisme racional
+@css[accent](Republica)nisme<br>
+@css[accent](Feminisme)<br>
+@css[accent](Laïc)isme<br>
+Escepticisme @css[accent](racional)
 
 +++
 
-Sostenibilitat<br>
-Descentralització<br>
-Internacionalisme<br>
-Economia democràtica
+@css[accent](Sostenibilitat)<br>
+@css[accent](Descentralització)<br>
+@css[accent](Internacional)isme<br>
+Economia @css[accent](democràtica)
 
 Note:
 
@@ -59,7 +59,7 @@ Note:
 
 ---
 
-### Garantir la seguretat de les dades
+### Garantir la @css[accent](seguretat de les dades)
 
 Note:
 
@@ -71,7 +71,7 @@ Note:
 
 ---
 
-### Promoure i usar programari lliure
+### Promoure i usar @css[accent](programari lliure)
 
 Note:
 
@@ -82,7 +82,7 @@ Note:
 
 ---
 
-### Garantir cobertura i accés a Internet
+### Garantir cobertura i @css[accent](accés a Internet)
 
 Note:
 
@@ -95,7 +95,7 @@ Note:
 
 ---
 
-### Informació proactiva
+### Informació @css[accent](proactiva)
 
 Note: 
 
@@ -108,7 +108,7 @@ Note:
 
 ---
 
-### Implementar correctament l'accés a dades obertes
+### Implementar correctament l'accés a @css[accent](dades obertes)
 
 Note:
 
@@ -122,7 +122,7 @@ Note:
 
 ---
 
-### Material escolar cooperatiu sota llicències lliures
+### Material escolar cooperatiu sota @css[accent](llicències lliures)
 
 Note:
 
@@ -133,7 +133,7 @@ Note:
 
 ---
 
-### Espais de participació efectius
+### Espais de @css[accent](participació) efectius
 
 Note:
 
@@ -145,7 +145,7 @@ Note:
 
 ---
 
-### Bústia ètica
+### Bústia @css[accent](ètica)
 
 Note:
 
@@ -157,7 +157,7 @@ Note:
 
 ---
 
-### Bonus track: Reformar el sistema impositiu
+### Bonus track: reformar el @css[accent](sistema impositiu)
 
 Note:
 
@@ -170,7 +170,7 @@ Note:
 
 ---
 
-## Gràcies! APM?
+## Gràcies! @css[accent](APM?)
 
 Dario Castañé | i@dario.im | @im_dario
 
